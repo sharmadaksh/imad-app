@@ -20,3 +20,10 @@ body {
     height: 200px;
 }
 
+.container{
+    padding-left:20px;
+    padding-right:20px;
+    font-family:cursive;
+    max-width:500px;
+    padding-top:60px;
+}
